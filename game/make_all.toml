@@ -1,0 +1,7 @@
+name = "Game"
+default_targets = ["macos"]
+build_directory = "bin"
+love_files = [
+"+*",
+"-*/.*",
+]
